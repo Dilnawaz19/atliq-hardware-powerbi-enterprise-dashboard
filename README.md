@@ -20,19 +20,19 @@ This dashboard tracks **$3.74B in Net Sales**, **38.08% Gross Margin**, **-13.98
 ## 📸 Dashboard Previews
 
 ### Executive View
-![Executive View](screenshots/01_Executive_View.jpg)
+![Executive View](screenshots/01_Executive_View.png)
 
 ### Finance View (Profit & Loss)
-![Finance View](screenshots/02_Finance_View.jpg)
+![Finance View](screenshots/02_Finance_View.png)
 
 ### Sales View
-![Sales View](screenshots/03_Sales_View.jpg)
+![Sales View](screenshots/03_Sales_View.png)
 
 ### Marketing View
-![Marketing View](screenshots/04_Marketing_View.jpg)
+![Marketing View](screenshots/04_Marketing_View.png)
 
 ### Supply Chain View
-![Supply Chain View](screenshots/05_Supply_Chain_View.jpg)
+![Supply Chain View](screenshots/05_Supply_Chain_View.png)
 
 ## 📂 Repository Structure
 * `/dashboard` — Contains the `.pbix` Power BI project file.
