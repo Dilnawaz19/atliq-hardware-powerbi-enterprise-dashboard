@@ -19,19 +19,19 @@ This dashboard tracks **$3.74B in Net Sales**, **38.08% Gross Margin**, **-13.98
 
 ## 📸 Dashboard Previews
 
-### 1. Executive View
+### Executive View
 ![Executive View](screenshots/01_Executive_View.jpg)
 
-### 2. Finance View (Profit & Loss)
+### Finance View (Profit & Loss)
 ![Finance View](screenshots/02_Finance_View.jpg)
 
-### 3. Sales View
+### Sales View
 ![Sales View](screenshots/03_Sales_View.jpg)
 
-### 4. Marketing View
+### Marketing View
 ![Marketing View](screenshots/04_Marketing_View.jpg)
 
-### 5. Supply Chain View
+### Supply Chain View
 ![Supply Chain View](screenshots/05_Supply_Chain_View.jpg)
 
 ## 📂 Repository Structure
